@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503017256129",
+    "project_id": "pool-it-fc376",
+    "storage_bucket": "pool-it-fc376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503017256129:android:e0840ee73bd8d1dedcd040",
+        "android_client_info": {
+          "package_name": "com.example.poolit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503017256129-ood8jdkbco26ii8t2j9jqdptt64ng71g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQpPAYc_5VGSVOgRay_hv7UrLlUYGmTYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503017256129-ood8jdkbco26ii8t2j9jqdptt64ng71g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
